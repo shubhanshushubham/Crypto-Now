@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/drawable/active_button.xml" value="0.2359375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/drawable/market_content_bg.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/drawable/search_field_bg.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/layout/currency_item_layout.xml" value="0.215625" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/layout/fragment_details.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/layout/fragment_home.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/layout/fragment_market.xml" value="0.215625" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/layout/fragment_top_loss_gain.xml" value="0.215625" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/layout/fragment_watch_list.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/layout/top_currency_layout.xml" value="0.215625" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CryptoNow/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
